@@ -5,7 +5,7 @@
                 <a href="https://www.linkedin.com/in/jeniedanielle/" class="flex flex-col text-center text-indigo-100 dark:text-white transition duration-300 transform hover:scale-110">
                     <i class="bi bi-linkedin text-xl"></i> 
                 </a>
-                <a href="https://www.linkedin.com/in/jeniedanielle/" class="flex flex-col text-center text-indigo-100 dark:text-white transition duration-300 transform hover:scale-110">
+                <a href="https://github.com/JenieDanielle" class="flex flex-col text-center text-indigo-100 dark:text-white transition duration-300 transform hover:scale-110">
                     <i class="bi bi-github text-xl"></i> 
                 </a>
             </div>

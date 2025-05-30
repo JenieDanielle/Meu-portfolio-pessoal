@@ -1,5 +1,5 @@
 <template>
-    <nav class="py-4 px-8 flex items-center justify-between dark:bg-gray-900 border-b-2 border-gray-200 dark:border-gray-700">
+    <nav class="py-4 px-8 flex items-center justify-between dark:bg-gray-900 border-b-2 border-gray-200 dark:border-gray-700 shadow-sm">
         <div class="text-lg font-bold">
             <h1 class="text-indigo-900 dark:text-white">Meu Portfólio</h1>
         </div>

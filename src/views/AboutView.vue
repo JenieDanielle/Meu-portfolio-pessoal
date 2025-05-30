@@ -1,5 +1,19 @@
 <template>
-  <section id="habilidades" class="max-w-6xl mx-auto px-4 py-12">
+  <section id="sobre" class="max-w-6xl mx-auto px-4 py-12">
+    <div class="flex flex-col md:flex-row items-center md:items-start gap-10 md:gap-20 mb-16 border-b-2 border-gray-200 dark:border-gray-700 pb-10 gap-10">
+      <div class="items-center gap-6">
+        <img src="../assets/imgs/me.jpeg" alt="foto perfil" class="w-40 h-auto md:h60 rounded-full object-cover border-2 border-indigo-500">
+      </div>
+      <div class="md:flex-1 text-center md:text-left">
+        <h2 class="text-2xl font-bold text-indigo-800 dark:text-indigo-300 mb-4">Olá, eu sou a Jênie!</h2>
+        <p class="text-gray-700 dark:text-gray-200 text-lg leading-relaxed">
+          Sou estudante da área de TI com interesse em programação e desenvolvimento web. 
+          Gosto de aprender, resolver problemas e estou me preparando para atuar profissionalmente 
+          nesse universo em constante evolução.
+        </p>
+      </div>
+    </div>
+
     <h2 class="text-3xl font-bold text-center mb-12 text-indigo-900 dark:text-indigo-300">Formação Acadêmica</h2>
     <div class="list-inside border-b-2 border-gray-200  dark:border-gray-700 pb-6 max-w-3xl mx-auto">
       <ul class="space-y-1">
